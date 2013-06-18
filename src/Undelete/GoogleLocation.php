@@ -1,5 +1,7 @@
 <?php
 
+namespace Undelete;
+
 class GoogleLocation
 {
     const STATUS_OK = 1;

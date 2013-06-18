@@ -9,5 +9,8 @@
     ],
     "require": {
         "kriswallsmith/buzz": "*"
+    },
+    "autoload": {
+        "psr-0": {"Undelete": "src/"}
     }
 }

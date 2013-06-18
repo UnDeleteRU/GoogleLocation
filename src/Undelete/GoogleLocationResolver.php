@@ -1,5 +1,7 @@
 <?php
 
+namespace Undelete;
+
 class GoogleLocationResolver
 {
     
