@@ -1,0 +1,13 @@
+{
+    "name": "undelete/google-location",
+    "description": "Class to work with Google geocoder",
+    "authors": [
+        {
+            "name": "Alexandr Alexeev",
+            "email": "undelete.jotm@gmail.com",
+        }
+    ],
+    "require": {
+        "kriswallsmith/buzz": "*"
+    }
+}
