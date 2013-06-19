@@ -24,7 +24,7 @@ class GoogleLocationResolver
     {
         $url = 'http://maps.googleapis.com/maps/api/geocode/json?' . http_build_query(array(
             'language' => $this->language,
-            'sensor' => 'true',
+            'sensor' => 'false',
             'address' => $country . ', ' . $city . ', ' . $address,
         ));
         
